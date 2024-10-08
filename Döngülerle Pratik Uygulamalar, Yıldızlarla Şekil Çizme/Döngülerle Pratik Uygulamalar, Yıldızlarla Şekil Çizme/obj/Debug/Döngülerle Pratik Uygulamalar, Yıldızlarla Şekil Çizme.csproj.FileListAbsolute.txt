@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\bin\Debug\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme.exe.config
+C:\Users\USER\source\repos\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\bin\Debug\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme.exe
+C:\Users\USER\source\repos\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\bin\Debug\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme.pdb
+C:\Users\USER\source\repos\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\obj\Debug\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\obj\Debug\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\obj\Debug\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme.exe
+C:\Users\USER\source\repos\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme\obj\Debug\Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme.pdb
